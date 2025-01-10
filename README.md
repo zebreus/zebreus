@@ -2,10 +2,10 @@
 
 Welcome to my GitHub profile!
 
-Currently I'm mostly focused on building a WASM based platform for esp32 microcontrollers at [rudelblinken-rs](https://github.com/zebreus/rudelblinken-rs) and some hardware for it https://oshwlab.com/zebreus/rudelblinken 
+Currently I'm mostly focused on building a WASM based platform for esp32 microcontrollers at [rudelblinken-rs](https://github.com/zebreus/rudelblinken-rs) and some [hardware](https://oshwlab.com/zebreus/rudelblinken) for it. 
 
 ## About Me
-- 🌱 I’m currently learning how to do WASM when you have nearly no RAM.
+- 🌱 I’m currently learning how to do WASM when you have only enough RAM for one page of memory.
 - 👯 I’m looking to collaborate on projects
 - 🤔 I’m looking for help with hardware design
 - 💬 Ask me questions about Rust or clean code
